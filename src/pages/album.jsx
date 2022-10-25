@@ -29,9 +29,6 @@ export default function Album() {
 					placeholder="blur"
 					quality={100}
 					sizes="100vw"
-					style={{
-						objectFit: 'cover',
-					}}
 					alt="banner home"
 				/>
 				<Container className={styles.container}>

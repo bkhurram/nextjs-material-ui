@@ -17,5 +17,9 @@
 				"index"
 			]
 		}]
+	},
+
+	"env": {
+		"jest/globals": true
 	}
 }
